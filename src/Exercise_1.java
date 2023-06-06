@@ -1,11 +1,16 @@
-public class Exerc_1 {
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class Exercise_1 {
     private JFrame frame;
     private JTextField massField;
     private JTextField velocityField;
     private JTextField energyField;
     private JButton calculateButton;
 
-    public h1() {
+    public Exercise_1() {
         frame = new JFrame("Розрахунок кінетичної енергії тіла");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 250);
@@ -77,7 +82,7 @@ public class Exerc_1 {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                new h1();
+                new Exercise_1();
             }
         });
     }
