@@ -34,9 +34,11 @@ git clone https://github.com/RomanShtoika/Lab_Work_09
 # Results
 Task_1: <br>
 
+![1](https://github.com/RomanShtoika/Lab_Work_09/assets/135036174/264a148e-11ae-4cca-a097-4489fa2a3a96)
 
+Additional task: <br>
 
-
+![2](https://github.com/RomanShtoika/Lab_Work_09/assets/135036174/ac30f385-a878-4f13-ae2b-aba4011f9b11)
 
 # Support
 
